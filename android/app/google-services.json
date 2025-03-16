@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569403348730",
+    "project_id": "redlenproject",
+    "storage_bucket": "redlenproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569403348730:android:d67cc52cb99725e43f5b43",
+        "android_client_info": {
+          "package_name": "com.redlenshoescleaning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMoQejLpdLQPehuuVkTiASFu5ZMiaBak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
